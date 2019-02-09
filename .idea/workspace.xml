@@ -5,6 +5,11 @@
     <option name="width" value="1420" />
     <option name="height" value="1360" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
